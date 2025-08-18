@@ -22,3 +22,5 @@ dnf5 install -y tmux
 #### Example for enabling a System Unit File
 
 systemctl enable podman.socket
+
+curl -s https://github.com/wheaney/breezy-desktop/releases/latest/download/breezy_gnome_setup | bash
